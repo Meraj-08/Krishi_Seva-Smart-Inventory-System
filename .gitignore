@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files (Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (Python)
+venv/
+env/
+ENV/
+
+# Node.js dependencies
+node_modules/
+
+# Large data files & models
+*.pt
+*.pth
+*.weights
+*.onnx
+data/
+videos/
+*.mp4
+*.mov
+*.avi
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files (macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.logbackend/.env
