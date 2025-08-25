@@ -1,12 +1,14 @@
-# 🧑‍🌾 Smart Inventory Management System  
+<h2 align="center">🧑‍🌾 Smart Inventory Management System</h2>
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)  
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)](https://www.mongodb.com/)  
-[![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV-orange?logo=opencv)](https://opencv.org/)  
-[![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red?logo=pytorch)](https://pytorch.org/)
-[![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)  
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit)](https://streamlit.io/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" alt="Python"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb" alt="MongoDB"></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-orange?logo=opencv" alt="OpenCV"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?logo=pytorch" alt="PyTorch"></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit" alt="Streamlit"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
 
 ---
 
