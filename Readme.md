@@ -10,8 +10,8 @@
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit" alt="Streamlit"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
-
-<div>
+<br>
+<div align="center">
     <div>
       <a href="https://drive.google.com/file/d/17tcCczXaBVLZVIWOP7DyQyGZpOlBfoZD/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
