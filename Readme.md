@@ -1,3 +1,4 @@
+<div>
 <h2 align="center">🧑‍🌾 Smart Inventory Management System</h2>
 
 <p align="center">
@@ -9,6 +10,15 @@
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit" alt="Streamlit"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
+
+<div>
+    <div>
+      <a href="https://drive.google.com/file/d/17tcCczXaBVLZVIWOP7DyQyGZpOlBfoZD/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -28,19 +38,17 @@ It leverages **YOLO (You Only Look Once) object detection**, **MongoDB for inven
 
 ---
 
-
-## 🎥 Demo Video  
-
-👉 [Watch Project Demo](https://your-demo-video-link.com)  
-
-(*Replace the above link with your demo video once uploaded*)  
-
----
-
 ## 📽️ Visual Preview  
 
-| ![](assets/inventory-detection.jpg) | ![](assets/dashboard-preview.jpg) |  
-|-------------------------------------|-----------------------------------|  
+<p align="center">
+  <img src="assets/img3.jpeg" alt="Dashboard Preview" width="30%">
+  <img src="assets/img1.jpg" alt="Object Detection with Count" width="30%">
+  <img src="assets/img2.jpeg" alt="SMS Notification" width="30%">
+</p>
+
+<div align="center">
+  <strong>Dashboard Interface</strong> • <strong>Real-time Object Detection</strong> • <strong>SMS Alert System</strong>
+</div>
 
 ---
 
