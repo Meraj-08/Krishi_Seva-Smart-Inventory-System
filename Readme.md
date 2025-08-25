@@ -40,15 +40,30 @@ It leverages **YOLO (You Only Look Once) object detection**, **MongoDB for inven
 
 ## 📽️ Visual Preview  
 
-<p align="center">
-  <img src="assets/img3.jpeg" alt="Dashboard Preview" width="30%">
-  <img src="assets/img1.jpg" alt="Object Detection with Count" width="30%">
-  <img src="assets/img2.jpeg" alt="SMS Notification" width="30%">
-</p>
-
+<!-- Row 1: Two images side by side -->
 <div align="center">
-  <strong>Dashboard Interface</strong> • <strong>Real-time Object Detection</strong> • <strong>SMS Alert System</strong>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/img3.jpeg" alt="Dashboard Preview" width="500px"><br>
+        <strong>Dashboard Interface</strong>
+      </td>
+      <td align="center">
+        <img src="assets/img1.jpg" alt="Object Detection with Count" width="500px"><br>
+        <strong>Real-time Object Detection</strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<!-- Row 2: One image below -->
+<div align="center">
+  <img src="assets/img2.jpeg" alt="SMS Notification" width="500px"><br>
+  <strong>SMS Alert System</strong>
+</div>
+
+
+
 
 ---
 
